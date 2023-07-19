@@ -1,6 +1,6 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/CiscoMods/CiscoMods/master/code.gif" width="500" height="320" max-width="500" max-height="320" />
-<a href="https://pacrp.net/boss" title=""><img alt="Discord Status" src="https://discordapp.com/api/guilds/1062317889534832692/widget.png"></a>
+<a href="https://pacrp.net/boss" title=""><img alt="Discord Status" src="https://raw.githubusercontent.com/Cisco8114/Cisco8114/master/dark-new.png#gh-dark-mode-only"></a>
 
 
 I’m [Cisco](https://pacrp.net/discord) a guy with a passion for gaming and programming.  
