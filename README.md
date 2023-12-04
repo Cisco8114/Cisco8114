@@ -21,3 +21,4 @@ However, that doesn’t stop me from loving both.
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈  
   
 <a href="https://www.buymeacoffee.com/Cisco1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H1EZD90)
